@@ -1,0 +1,73 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ramaraja', serif;
+font-family: 'Roboto', sans-serif; */
+
+
+header {
+    /* border: 1px solid rgb(79, 49, 212); */
+    display: flex;
+    align-items: center;
+    margin-top: 37px;
+    margin-left: 80px;
+    margin-right: 68px;
+}
+
+
+.logo {
+    /* border: 1px solid red; */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 48px;
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+}
+
+.logo-dot {
+    color: #4F56F1;
+}
+
+nav {
+    /* border: 1px solid red; */
+    margin-left: 98px;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    text-decoration: none;
+    margin-right: 38px;
+}
+
+.header-btns {
+    /* border: 1px solid red; */
+    margin-left: auto;
+    margin-right: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+.sign-in-btn {
+    width: 51px;
+    font-weight: 400;
+    color: #1B0A42;
+    background: none;
+    border: none;
+}
+
+.sign-up-btn {
+    width: 120px;
+    height: 60px;
+    margin-left: 40px;
+    font-weight: 700;
+    background-color: #4F56F1;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+}
